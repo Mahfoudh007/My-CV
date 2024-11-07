@@ -19,8 +19,7 @@ function switchLanguage(language) {
             "skill-4": "WordPress: Currently developing my skills with WordPress",
             "github": "GitHub: https://github.com/Mahfoudh007",
             "languages-skills": "Programming Languages: HTML, CSS, JS, PHP, SQL",
-            "email": "Email: mahfoodh20015@gmail.com",
-            "phone": "Phone: +79998016936"
+            "email": "Email: mahfoodhjob@mail.ru",
         },
         ru: {
             "cv-title": "Резюме",
@@ -41,8 +40,7 @@ function switchLanguage(language) {
             "skill-4": "WordPress: В настоящее время развиваю свои навыки в работе с WordPress",
             "github": "GitHub: https://github.com/Mahfoudh007",
             "languages-skills": "Языки программирования: HTML, CSS, JS, PHP, SQL",
-            "email": "Электронная почта: mahfoodh20015@gmail.com",
-            "phone": "Телефон: +79998016936"
+            "email": "Электронная почта: mahfoodhjob@mail.ru",
         },
         ar: {
             "cv-title": "السيرة الذاتية",
@@ -63,8 +61,7 @@ function switchLanguage(language) {
             "skill-4": "WordPress: أطور مهاراتي حاليًا في WordPress",
             "github": "GitHub: https://github.com/Mahfoudh007",
             "languages-skills": "لغات البرمجة: HTML، CSS، JS، PHP، SQL",
-            "email": "البريد الإلكتروني: mahfoodh20015@gmail.com",
-            "phone": "الهاتف: +79998016936"
+            "email": "البريد الإلكتروني: mahfoodhjob@mail.ru",
         }
     };
 
