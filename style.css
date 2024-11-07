@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.container {
+    max-width: 900px;
+}
+
+h1, h2 {
+    color: #007bff;
+}
+
+h2 {
+    margin-top: 30px;
+    font-size: 1.75rem;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+ul li strong {
+    font-size: 1.1rem;
+}
+
+#cv-title {
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+button {
+    margin: 10px 5px;
+}
+
+section {
+    margin-top: 40px;
+}
+
+@media (max-width: 768px) {
+    #cv-title {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+}
